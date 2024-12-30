@@ -1,4 +1,5 @@
-# modalnext
+# Modal-Next  <img src="./example_ma2020/modal-next.png" align="right" width="150px"/>
+
 Unified heterogeneous cellular data integration
 
 # Dataset
